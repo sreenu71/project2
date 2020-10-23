@@ -1,0 +1,3 @@
+pwd
+date
+systemctl status sshd.service
